@@ -1,0 +1,224 @@
+.logo
+{
+    width:500px;
+    height:auto;
+}
+
+body
+{
+  background-color:#F2EEE4;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  min-width: 100px;
+  min-height: 900px;
+}
+.top_nav_bar 
+{
+    display: grid;
+    grid-template-columns: auto auto auto;
+    padding: 10px;
+    font-family: 'Poppins', sans-serif;
+    text-decoration:none;
+}
+.home_buttons
+{
+    padding-top: 20px;
+    font-size: 30px;
+    text-align:right;
+}
+.cart_amount
+{
+    text-align: center;
+    font-size: 30px;
+    padding: 20px;
+}
+.buttons
+{
+    color:#465DA8;
+    padding: 5px;
+}
+.buttons:hover
+{
+    color:#0830B1;   
+}
+.banner
+{
+    text-align: center;
+}
+.banner_pic
+{
+    max-height: 100%;
+    max-width: 100%;
+}
+.three_photos
+{
+    display: grid;
+    grid-template-columns: auto auto auto;
+}
+.topimg1
+{
+    padding:10px;
+    max-height:100%;
+    max-width: 89.64%;
+}
+.topimg2
+{
+    padding: 10px;
+    max-height: 100%;
+    max-width: 90%;
+}
+.topimg3
+{
+    padding: 10px;
+    max-height: 100%;
+    max-width: 88.3%;
+}
+.topimg1:hover
+{
+    
+    border-color: aqua;
+}
+.f_i
+{
+    font-family: 'Padauk', sans-serif;
+    text-align: center;
+    padding-top: 20px;
+    font-size: 30px;
+}
+.featured_caption
+{
+    text-align: center;
+    font-family: 'Alegreya Sans SC', sans-serif;
+    font-size: 20px;
+}
+.explore_div
+{
+    background-color:#EFEFEF;   
+    opacity: 0.8;
+    display: grid;
+    grid-template-rows: auto auto;
+    border-radius: 20px;
+}
+.collection_pic
+{
+    max-height: 100%;
+    max-width: 90%;
+}
+.collection_pics
+{
+    text-align: center;
+}
+.explore
+{
+    text-align: center;
+}
+.explorebutton
+{
+    text-decoration: none;
+    padding:20px;
+    font-size: 30px;
+    border-style: solid;
+    border-radius: 15px;
+    font-family: 'Alegreya Sans SC', sans-serif;
+    background-color: #B1F7E5;
+    color:forestgreen;
+}
+.explorebutton:hover
+{
+    background-color: #7CDEC4;
+}
+.reviews
+{
+    display: grid;
+    grid-template-columns: auto auto auto;
+}
+.reviewtext
+{
+    text-align: center;
+    font-family: 'Padauk', sans-serif;
+
+}
+h3
+{
+    font-size: 25px;
+    font-family: 'Alegreya Sans SC', sans-serif;
+}
+.review1
+{
+    text-align: center;
+    background-color:#D5FBFD;
+    opacity: 60%;
+    border-radius: 100px;
+}
+.review2
+{
+    text-align: center;
+    background-color:#D5FBFD;
+    opacity: 60%;
+    border-radius: 100px;
+}
+.review3
+{
+    text-align: center;
+    background-color:#D5FBFD;
+    opacity: 60%;
+    border-radius: 100px;
+}
+.reviewandrating
+{
+    font-size: 20px;
+    font-family: 'Padauk', sans-serif;
+
+}
+
+footer
+{
+    background-color: black;
+    color:white;
+    background-size: cover;
+    background-position: bottom;
+}
+.footerdiv
+{
+    display: grid;
+    grid-template-columns: auto auto auto;
+}
+.useful
+{
+    text-align: center;
+}
+.usefultext
+{
+    font-size: 20px;
+    font-family: 'Ibarra Real Nova', serif;
+}
+.contactdiv
+{
+    text-align: center;
+}
+.contacttext
+{
+    font-size: 20px;
+    font-family: 'Ibarra Real Nova', serif;
+}
+.usefulcontacttext
+{
+    font-size: 15px;
+    font-family: 'Ibarra Real Nova', serif;
+
+}
+.app
+{
+    text-align: center;
+}
+.apptext
+{
+    font-size: 20px;
+    font-family: 'Ibarra Real Nova', serif;
+}
+.appstores
+{
+    max-width: 30%;
+    max-height: 40%;
+}
