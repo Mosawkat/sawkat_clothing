@@ -1,0 +1,75 @@
+.accounttext
+{
+    text-align: center;
+    font-size: 40px;
+    font-family: 'Ibarra Real Nova', serif;
+}
+.firstgrid
+{
+    display: grid;
+    grid-template-columns: 300px 800px auto;
+}
+.leftnav
+{
+    font-family: 'Padauk', sans-serif;
+    color:black;
+    font-size: 30px;
+    background-color: #E9E9E9;
+}
+.leftnavcont
+{
+    
+}
+.lefttext
+{
+    padding-top: 0px;
+}
+.leftbuttons
+{
+    padding-top:0px;
+    font-size: 28px;
+    padding:10px;
+    width: 300px;
+    text-decoration: none;
+    color:darkgreen;
+    border-left: 5px solid red;
+}
+.ordernumsta
+{
+    font-size: 20px;
+    text-align: left;
+    font-family: 'Padauk', sans-serif;
+}
+.ordertext
+{
+    font-size: 30px;
+    text-align: left;
+    font-family: 'Padauk', sans-serif;
+}
+.statusbuttons
+{
+    text-align: right;
+}
+.lastorder
+{
+    background-color: #E0E1E1;
+    padding-left: 20px;
+}
+.statusbuttons
+{
+    background-color: #E9E9E9;
+}
+.rightdivbuttons
+{
+    background-color: #ECEBEB;
+    font-size: 25px;
+    border-style: solid;
+    border-color: dimgray;
+    padding:10px;
+    width: 300px;
+}
+.rightdivbuttons:hover
+{
+    border-color: gray;
+    color:darkcyan;
+}
